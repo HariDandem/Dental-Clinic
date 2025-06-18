@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.homepage{
+    background-image: url("https://res.cloudinary.com/dafvlu98d/image/upload/v1750065059/vecteezy_ai-generated-dental-clinic-advertisment-background-with-copy_36594501_z4wf0k.jpg");
+    height:100vh;    
+    background-size: cover;
+}
+#navbarlink1,#navbarlink2,#navbarlink3,#navbarlink4,#navbarlink5,#navbarlink6,#navbarlink7,#navbarlink8{
+    color:#358e9c;
+    font-family:"roboto";
+    font-weight: bold;
+    margin-right:25px;
+    padding:10px;
+    
+}
+
+
+.navbar-nav .nav-link:hover {
+    background-color: #b6d6db;
+    color: white !important;
+    padding:15px;
+    border-radius:5px;
+}
+
+
+.homepage-heading1{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    FONT-SIZE:25PX;
+    color:white;
+    
+}
+
+.homepage-heading2{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    Font-size:40PX;
+    color:white;
+    
+}
+
+.homepage-para{
+    font-size:20px;
+    color:white;
+ }
+
+
+.secondpageimage{
+    height:70px;
+    width:100px;
+ }
+
+.secondpagehead{
+    font-size:20px;
+    font-weight: bold;
+    font-family: "roboto";
+    margin:20px;
+
+}
+
+.secondpagepara{
+    font-size:15px;
+    color: #358e9c;
+    font-family: "roboto";
+
+}
+
+.secondpagecard{
+    border-radius:10px;
+    padding:40px;
+    margin:40px;
+    background-color:rgb(182, 214, 219);
+     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* normal shadow */
+
+}
+
+.secondpagecard:hover{
+    margin-top:20px;
+    transition: all 0.1s ease;
+}
+
+.thirdpageimage {
+    width:350px; 
+    height: auto;
+    
+}
+
+
+.thirdpagehead{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    FONT-SIZE:30PX;
+
+}
+
+.thirdpagepara{
+    font-size:15px;
+    color: #358e9c;
+    font-family: "roboto";
+
+}
+
+.thirdpagecard{
+    padding:30px;
+    
+}
+
+.fourthpage{
+    padding:30px;
+    background-color:rgb(182, 214, 219);
+}
+
+.fourthpageimage{
+    height:70px;
+    width:100px;
+    margin-bottom:10px;
+ }
+
+
+.fourthpagehead{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    FONT-SIZE:25PX;
+    
+    margin-bottom:10px;
+
+}
+
+.fourthpagepara{
+    font-size:15px;
+    margin-bottom:10px;
+   
+    font-family: "roboto";
+
+}
+
+.fourthpagecard{
+    padding:30px;
+    border:solid 2px;
+    
+    margin-right:30px;
+   
+    border-radius:20px 60px 20px 60px;
+    text-align:center;
+    margin-bottom:30px;
+    
+}
+
+.fourthpagecard1{
+    padding:30px;
+    border:solid 2px;
+    
+    margin-right:30px;
+    
+    border-radius:60px 20px 60px 20px;
+    text-align:center;
+    margin-bottom:30px;
+    
+}
+
+.fourthpagecard:hover,.fourthpagecard1:hover{
+    border-color:white;
+
+}
+
+
+.fifthpagehead{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    FONT-SIZE:20PX;
+    
+    margin-bottom:20px;
+    margin-top:20px;
+
+}
+
+
+
+.fifthpagecard{
+    border-radius:10px;
+    padding:30px;
+    text-align: center;
+    margin:30px;
+    margin-right:50px;
+
+}
+
+
+.fifthpagecard:hover{
+    margin-top:15px;
+    transition: all 0.1s ease;
+}
+
+.fifthpageimage{
+    height:120px;
+    width:140px;
+}
+
+
+.sixthpagehead{
+    FONT-FAMILY:"roboto";
+    FONT-WEIGHT:BOLD;
+    FONT-SIZE:30PX;
+    
+    margin-bottom:20px;
+    margin-top:20px;
+    text-align: center;
+
+}
+
